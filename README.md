@@ -1,5 +1,5 @@
-# zoedepth-estimation-web-application
-This web-application will let you get depth map from single image.
+# Веб интерфейс для работы с картами глубины
+С помощью данного веб интерфейса возможно обрабатывать исходные изображения таким образом, что после проведения всех операций пользователь получит изображение с картой глубины.
 
 ![alt text](https://github.com/Sauroni/Web-Interface-Depth-Estimation-Model/blob/main/src/uploads/hat.png?raw=true)
 
