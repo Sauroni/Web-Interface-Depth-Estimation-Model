@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/Sauroni/Web-Interface-Depth-Estimation-Model/blob/main/src/uploads/hat.png?raw=true)
 
-# На русском
+# Описание запуска
 ## Использование 
 1. Запустить Docker.
 2. Запустить `run.bat`.
